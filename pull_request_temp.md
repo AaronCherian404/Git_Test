@@ -17,7 +17,7 @@
 
 # WORKING OF CODE
 Let us know how perfectly your code works.
-  ORIGINAL SCREENSHOT | FINAL SCREENSHOT
+   SCREENSHOT 1 | SCREENSHOT 2
 :-------------------------: | :-----------------------:
   **ORIGINAL SCREENSHOT**  |  **FINAL SCREENSHOT**
 
