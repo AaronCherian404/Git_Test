@@ -11,12 +11,12 @@
 - [ ] abc
 - [ ] def
 
-# Additional Bug Report
-// let us know if you found some extra bug
+# Additional Bug Report  🪲
+// let us know if you found some extra bug(s)  🪲🪲🪲🪲
 
 
 # WORKING OF CODE
-// Test your code and Kindly send the output
+Let us know how perfectly your code works.
 Screenshot
 :-------------------------:
 ** screenshot **
