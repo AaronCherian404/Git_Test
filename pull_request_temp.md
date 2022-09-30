@@ -17,8 +17,6 @@
 
 # WORKING OF CODE
 Let us know how perfectly your code works.
-Screenshot
-:-------------------------:
-** screenshot **
-// this  is incomplete still
+:-------------------------: :-----------------------:
+  **ORIGINAL SCREENSHOT**  |  **FINAL SCREENSHOT**
 
