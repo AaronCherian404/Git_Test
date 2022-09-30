@@ -17,6 +17,6 @@
 
 # WORKING OF CODE
 Let us know how perfectly your code works.
-:-------------------------: :-----------------------:
+:-------------------------: | :-----------------------:
   **ORIGINAL SCREENSHOT**  |  **FINAL SCREENSHOT**
 
